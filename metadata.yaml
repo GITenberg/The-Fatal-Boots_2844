@@ -1,5 +1,8 @@
 _repo: The-Fatal-Boots_2844
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -16,6 +19,8 @@ description: You have been fool enough, sir, says the Doctor, looking very stern
   the value of the article you sold him. Take back the boots, sir I won't pay a penny
   of your bill; nor can you get a penny. As for you, sir, you miserable swindler and
   cheat, I shall not flog you as I did before, but I shall send you home.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2844#The-Fatal-Boots
 gutenberg_issued: '2006-03-27'
 gutenberg_type: Text
 identifiers:
